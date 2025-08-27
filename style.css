@@ -103,6 +103,7 @@ body {
 
 @media (max-width: 475px) {
   .card {
-    width: 100%;
+    width: 350px;
   }
 }
+
